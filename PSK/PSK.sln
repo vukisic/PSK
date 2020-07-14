@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSK", "PSK\PSK.csproj", "{4E5BEC05-2383-46D9-90B2-47008BAE40B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSK_Lib", "PSK_Lib\PSK_Lib.csproj", "{5499DBE9-9A0F-4242-8C9B-9A7C474EDB98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E5BEC05-2383-46D9-90B2-47008BAE40B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5BEC05-2383-46D9-90B2-47008BAE40B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5BEC05-2383-46D9-90B2-47008BAE40B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5BEC05-2383-46D9-90B2-47008BAE40B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5499DBE9-9A0F-4242-8C9B-9A7C474EDB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5499DBE9-9A0F-4242-8C9B-9A7C474EDB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5499DBE9-9A0F-4242-8C9B-9A7C474EDB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5499DBE9-9A0F-4242-8C9B-9A7C474EDB98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C149010F-7228-49E7-BB58-CC6664E05521}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+[
+  {
+    "TimeInterval": 5,
+    "Processes": [
+      "notepad.exe",
+      "something.exe"
+    ]
+  }
+]
