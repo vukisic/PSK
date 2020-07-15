@@ -17,7 +17,7 @@
 ![alt text](doc/console.png "Running")
 
 # Setup & Run
-- configure blacklist and timeout in `blacklist.json`
+- Configure blacklist and timeout in `blacklist.json`
 - Open up `VS` and choose mode via contructor: param `stepbystep`
 - Hit `F5` to run
 - Enjoy 😊
