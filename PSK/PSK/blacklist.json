@@ -2,7 +2,7 @@
   {
     "TimeInterval": 5,
     "Processes": [
-      "notepad.exe",
+      "notepad",
       "something.exe"
     ]
   }
